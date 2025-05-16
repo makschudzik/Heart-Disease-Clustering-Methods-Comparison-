@@ -1,4 +1,4 @@
-# Heart-Disease-Clustering-Methods-Comparison-
+# Heart-Disease-Clustering-Methods-Comparison
 
 This project explores different clustering algorithms to identify meaningful patterns in the heart disease dataset. It includes data preprocessing, dimensionality reduction, and model evaluation to determine the most effective clustering method.
 
