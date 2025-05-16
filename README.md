@@ -17,6 +17,6 @@ To set up this project locally, clone the repository and install the required de
 ```bash
 git clone https://github.com/makschudzik/Heart-Disease-Clustering-Methods-Comparison.git
 cd Heart-Disease-Clustering-Methods-Comparison
-pip install -r requirements.txt
+pip install -r requirements.txt`
 
 ⭐ If you find this project helpful, please give it a star! Thank you! ⭐
