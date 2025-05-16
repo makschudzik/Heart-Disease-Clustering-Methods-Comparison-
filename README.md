@@ -15,7 +15,8 @@ Initial analysis shows that **KMeans** provides the best clustering performance 
 
 To set up this project locally, clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/makschudzik/Heart-Disease-Clustering.git
-cd Heart-Disease-Clustering
+git clone https://github.com/makschudzik/Heart-Disease-Clustering-Methods-Comparison.git
+cd Heart-Disease-Clustering-Methods-Comparison
 pip install -r requirements.txt
+
 ⭐ If you find this project helpful, please give it a star! Thank you! ⭐
