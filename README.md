@@ -13,6 +13,12 @@ This notebook covers the following steps:
 ## 📊 Results
 Initial analysis shows that **KMeans** provides the best clustering performance based on the chosen evaluation metrics. This suggests that the heart disease data can be effectively grouped using this approach.
 
+## 🗂️ Dataset
+The dataset used in this project can be downloaded from Kaggle:  
+[Heart Disease Dataset on Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)  
+
+Please download the dataset and place the `hearts.csv` file in the root directory of this repository before running the notebook.
+
 ⭐ If you find this project helpful, please give it a star! Thank you! ⭐
 
 To set up this project locally, clone the repository and install the required dependencies:
