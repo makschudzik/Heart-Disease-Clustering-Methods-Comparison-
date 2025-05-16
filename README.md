@@ -13,10 +13,11 @@ This notebook covers the following steps:
 ## 📊 Results
 Initial analysis shows that **KMeans** provides the best clustering performance based on the chosen evaluation metrics. This suggests that the heart disease data can be effectively grouped using this approach.
 
+⭐ If you find this project helpful, please give it a star! Thank you! ⭐
+
 To set up this project locally, clone the repository and install the required dependencies:
 ```bash
 git clone https://github.com/makschudzik/Heart-Disease-Clustering-Methods-Comparison.git
 cd Heart-Disease-Clustering-Methods-Comparison
-pip install -r requirements.txt`
+pip install -r requirements.txt
 
-⭐ If you find this project helpful, please give it a star! Thank you! ⭐
