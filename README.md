@@ -19,7 +19,7 @@ The dataset used in this project can be downloaded from Kaggle:
 
 Please download the dataset and place the `hearts.csv` file in the root directory of this repository before running the notebook.
 
-⭐ If you find this project helpful, please give it a star! Thank you! ⭐
+## ⭐ If you find this project helpful, please give it a star! Thank you! ⭐
 
 To set up this project locally, clone the repository and install the required dependencies:
 ```bash
